@@ -1,7 +1,14 @@
 # Sales Analysis Dashboard
 
 ## Overview
-Interactive Power BI dashboard developed using DAX and data modeling techniques to analyze sales performance, customer profitability, product demand, and purchasing trends.
+Interactive Power BI dashboard built using DAX, Excel, and advanced data modeling techniques. The dashboard provides insights into sales performance, customer profitability, product demand, and purchasing trends to support data-driven business decisions.
+
+## Key Features
+Sales performance analysis
+Customer profitability insights
+Product demand tracking
+Trend analysis and business reporting
+Interactive visualizations and KPIs
 
 ## Tools Used
 - Power BI
